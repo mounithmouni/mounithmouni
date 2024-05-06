@@ -6,7 +6,7 @@
 I'm Mounith M, a passionate frontend developer diving into the world of React.js! 🚀
 
 ### About Me
-<hr/>
+
 - 💻 I specialize in frontend development with a focus on React.js.
 - 🌱 Currently learning and exploring new concepts in React.js to enhance my skills.
 - 🔭 I’m constantly working on personal projects to apply what I learn and expand my portfolio.
