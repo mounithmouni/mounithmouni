@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mounithmouni&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mounithmouni&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mounithmouni&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=mounithmouni&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</center>
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mounithmouni&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 -->
