@@ -7,7 +7,8 @@ I'm Mounith M, a passionate frontend developer diving into the world of React.js
 
 ### About Me
 
-- 💻 I specialize in frontend development with a focus on React.js.
+- 💻 I specialize in frontend development with a focus on ReactJS.
+- 👨‍🎓Studied ##Artificial Intelligence and Data Science at the Anamacharya Institute of Technology and Sciences, Tirupati.
 - 🌱 Currently learning and exploring new concepts in React.js to enhance my skills.
 - 🔭 I’m constantly working on personal projects to apply what I learn and expand my portfolio.
 - 📚 I love to learn and share knowledge with the developer community.
