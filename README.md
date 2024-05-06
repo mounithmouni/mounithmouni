@@ -22,7 +22,7 @@ I'm Mounith M, a passionate frontend developer diving into the world of React.js
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mounithmouni&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-# Get in Touch
+### Get in Touch
 
 📧 Feel free to shoot me an email at [murthi.mouni@gmail.com](mailto:murthi.mouni@gmail.com) or check out my projects on [GitHub](https://github.com/mounithmouni)!
 
