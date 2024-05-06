@@ -3,8 +3,7 @@
 I'm Mounith M, a passionate frontend developer diving into the world of React.js! 🚀
 
 # 🙋‍♂️ About Me:
-💻 Currently, I am working on improving my frontend skills.<br>👨‍🎓Studied Artificial Intelligence and Data Science at the Anamacharya Institute of Technology and Sciences, Tirupati.<br>🌱 Currently learning and exploring new concepts in React.js to enhance my skills.<br>🔭 I’m constantly working on personal projects to apply what I learn and expand my portfolio.<br>📚 I love to learn and share knowledge with the developer community.
-
+💻 Currently, I am working on improving my frontend skills.<br>👨‍🎓Studied Artificial Intelligence and Data Science at the Anamacharya Institute of Technology and Sciences, Tirupati.<br>🌱 Currently learning and exploring new concepts in React.js to enhance my skills.<br>🔭 I’m constantly working on personal projects to apply what I learn and expand my portfolio.<br>📚 I love to learn and share knowledge with the developer community. 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/> 
