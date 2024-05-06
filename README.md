@@ -1,19 +1,29 @@
 ### Hi there 👋
 
-<!--
-**mounithmouni/mounithmouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Mounith M, a passionate frontend developer diving into the world of React.js! 🚀
+
+### About Me
+
+- 💻 I specialize in frontend development with a focus on React.js.
+- 🌱 Currently learning and exploring new concepts in React.js to enhance my skills.
+- 🔭 I’m constantly working on personal projects to apply what I learn and expand my portfolio.
+- 📚 I love to learn and share knowledge with the developer community.
+
+### Skills
+
+- HTML5, CSS3, JavaScript
+- React.js, Redux
+- Responsive Web Design
+- Git, GitHub
+
+### Get in Touch
+
+📫 Feel free to connect with me on [LinkedIn](Your LinkedIn Profile Link) or check out my projects on [GitHub](Your GitHub Profile Link)!
+
+Let's code together and build awesome things! 😊
 
 <picture>
   <source
