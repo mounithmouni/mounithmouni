@@ -12,12 +12,26 @@ I'm Mounith M, a passionate frontend developer diving into the world of React.js
 - 🔭 I’m constantly working on personal projects to apply what I learn and expand my portfolio.
 - 📚 I love to learn and share knowledge with the developer community.
 
-### Skills
+### Tech Skills
 
 - HTML5, CSS3, JavaScript
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  
 - React.js, Redux
+  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+  
+- Java
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  
 - Responsive Web Design
+  ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-008080?style=flat)
+  
 - Git, GitHub
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### Get in Touch
 
