@@ -25,6 +25,7 @@ I'm Mounith M, a passionate frontend developer diving into the world of React.js
 # Get in Touch
 
 📧 Feel free to shoot me an email at [murthi.mouni@gmail.com](mailto:murthi.mouni@gmail.com) or check out my projects on [GitHub](https://github.com/mounithmouni)!
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mounithmouni&icon=3&color=1)](https://visitcount.itsvg.in)
 
