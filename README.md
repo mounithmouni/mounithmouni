@@ -1,3 +1,7 @@
+## 👋 Hello, fellow developers!  
+
+I'm Mounith M, a passionate frontend developer diving into the world of React.js! 🚀
+
 # 🙋‍♂️ About Me:
 💻 Currently, I am working on improving my frontend skills.<br>👨‍🎓Studied Artificial Intelligence and Data Science at the Anamacharya Institute of Technology and Sciences, Tirupati.<br>🌱 Currently learning and exploring new concepts in React.js to enhance my skills.<br>🔭 I’m constantly working on personal projects to apply what I learn and expand my portfolio.<br>📚 I love to learn and share knowledge with the developer community.
 
@@ -22,3 +26,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mounithmouni&icon=3&color=1)](https://visitcount.itsvg.in)
 
+# Let's code together and build awesome things! 😊
