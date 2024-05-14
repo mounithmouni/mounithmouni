@@ -2,7 +2,11 @@
 
 I'm Mounith M, a passionate frontend developer diving into the world of React.js! 🚀
 
-https://github.com/mounithmouni/mounithmouni/assets/125748918/db5c4c71-99d3-48b2-a96a-233a604481b6
+
+
+https://github.com/mounithmouni/mounithmouni/assets/125748918/d819d60c-90ae-4812-85b3-8819f254a0d5
+
+
 
 # 🙋‍♂️ About Me:
 💻 Currently, I am working on improving my frontend skills.<br>👨‍🎓Studied Artificial Intelligence and Data Science at the Anamacharya Institute of Technology and Sciences, Tirupati.<br>🌱 Currently learning and exploring new concepts in React.js to enhance my skills.<br>🔭 I’m constantly working on personal projects to apply what I learn and expand my portfolio.<br>📚 I love to learn and share knowledge with the developer community. 
