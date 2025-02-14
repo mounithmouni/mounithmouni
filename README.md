@@ -21,6 +21,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mounithmouni&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mounithmouni&color=blue&style=for-the-badge)
 -->
 
 
@@ -32,6 +34,4 @@
 📧 Feel free to shoot me an email at [murthi.mouni@gmail.com](mailto:murthi.mouni@gmail.com) or check out my projects on [GitHub](https://github.com/mounithmouni)!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mounithmouni&icon=3&color=1)](https://visitcount.itsvg.in)
-
 # Let's code together and build awesome things! 😊
