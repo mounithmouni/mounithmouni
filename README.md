@@ -1,6 +1,7 @@
 # 👋Hello World!, I'm Mounith, a passionate Frontend Developer🚀
 <!-- ![Alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZndXltYnBuOGphcGRqazdyZXBxYnE1Yjh0NWlteHZuZjZ2ZTY1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5iCpBsEJN3E59BbxU/giphy.gif)-->
-![Naruto Homework GIF](https://raw.githubusercontent.com/mounithmouni/mounithmouni/main/naruto-gif.gif)
+![Naruto Homework GIF](https://raw.githubusercontent.com/mounithmouni/mounithmouni/main/naruto-gif.gif?raw=false)
+
 
 
 
